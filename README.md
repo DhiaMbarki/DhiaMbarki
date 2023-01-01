@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a good sense of aesthetics, and experience in responsive, web design. I put special<br> effort into optimizing my code and providing the best user experience,<br> I would love to give you any kind of support to your company, I can bring to your organization<br> not only my ideas from my previous job, but my general passion for innovation too . <br>
+I m full stack developer , I have a good sense of aesthetics, and experience in responsive, web design. I put special<br> effort into optimizing my code and providing the best user experience,<br> I would love to give you any kind of support to your company, I can bring to your organization<br> not only my ideas from my previous job, but my general passion for innovation too . <br>
 
 
 ## 🌐 Socials:
